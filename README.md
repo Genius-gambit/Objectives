@@ -12,3 +12,4 @@
 4. index = 3: to turn y-angle to 180.
 5. index = 4: to turn right.
 6. Box Triggers can help to pop up 3D Canvas for the information for the User.
+7. Created 2 tags for the colliders- InfoTag, Track. InfoTag is to print the 3D Canvas and Track is for the aircraft to turn left or right.
