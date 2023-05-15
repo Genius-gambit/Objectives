@@ -3,8 +3,12 @@
 1. ~~Import the environment, 3D models for the project.~~
 2. Place Cubes to make the track for the plane.
 3. ~~Create AircraftController.cs for the Engine component.~~
-4. Assigne one cube at a certain time.
-5. Using Lookat function to change the direction
+4. ~~Assigne one cube at a certain time.~~
 
 ## Work Log
-1. Creted Tracking.cs, which takes the cub and points to the another Game Object so that the plNe can rotate.
+1. Created Tracking.cs, which takes the cube and indicates the trigger if it hit the track in order to rotate the plane.
+2. index = 1: to rotate left for the plane.
+3. index = 2: to stop rotation.
+4. index = 3: to turn y-angle to 180.
+5. index = 4: to turn right.
+6. Box Triggers can help to pop up 3D Canvas for the information for the User.
