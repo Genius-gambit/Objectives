@@ -4,6 +4,8 @@
 2. Place Cubes to make the track for the plane.
 3. ~~Create AircraftController.cs for the Engine component.~~
 4. ~~Assigne one cube at a certain time.~~
+5. ~~Finish the Runway.~~
+6. Create 22 images and Import the images in the environment for the runway.
 
 ## Work Log
 1. Created Tracking.cs, which takes the cube and indicates the trigger if it hit the track in order to rotate the plane.
@@ -13,3 +15,5 @@
 5. index = 4: to turn right.
 6. Box Triggers can help to pop up 3D Canvas for the information for the User.
 7. Created 2 tags for the colliders- InfoTag, Track. InfoTag is to print the 3D Canvas and Track is for the aircraft to turn left or right.
+8. 5 Images done.
+9. 
