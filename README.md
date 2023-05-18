@@ -16,5 +16,5 @@
 6. Box Triggers can help to pop up 3D Canvas for the information for the User.
 7. Created 2 tags for the colliders- InfoTag, Track. InfoTag is to print the 3D Canvas and Track is for the aircraft to turn left or right.
 8. 16 Images done.
-9. Placed 4 images in the game applications for UI.
+9. Placed 5 images in the game applications for UI.
 10. 
