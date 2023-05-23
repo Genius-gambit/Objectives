@@ -25,3 +25,15 @@
 10. Created Animation Controller for the IntroBanner.
 11. Debugging the runway model.
 
+## Summary
+1. Imported Airport Environment and Aircraft asset in the main Scene.
+2. Created box trigger and attached on top the aircraft.
+3. Created multiple box triggers to make a track for the runway.
+4. Created Aircraft Controller Script which handles the input systems of VR and Keyboard events.
+5. Created a Dictionary which has int as the key and functions / methods as it's value.
+6. Created 22 images and imported onto the environment.
+7. Created Tracking script which handles two types of the situations for the box triggers.
+    1. If collides with the gameobject which has the tag "InfoTag", It indicates that UI image will set active.
+    2. If collides with the gameobject which has the tag "Track", then it rotates the aircraft towards the pathway.
+8. Created UI Image of Intro to Control which will be enabled when scene starts.
+9. FinalMsg will be enabled when the activity is over.
