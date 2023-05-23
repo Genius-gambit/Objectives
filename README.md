@@ -37,3 +37,12 @@
     2. If collides with the gameobject which has the tag "Track", then it rotates the aircraft towards the pathway.
 8. Created UI Image of Intro to Control which will be enabled when scene starts.
 9. FinalMsg will be enabled when the activity is over.
+
+## Work for Tomorrow
+1. Trim Voice Overs.
+2. Edit Images:
+    1. - [ ] Taxiway Centerline.
+    2. - [ ] Taxiway Holding Position Marking.
+    3. - [ ] Taxiway Location and Direction Signs.
+    4. - [ ] Undershoot or Overshoot.
+    5. - [ ] Taxiway Direction Sign.
