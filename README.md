@@ -41,7 +41,7 @@
 ## Work for Tomorrow
 1. Trim Voice Overs.
 2. Edit Images:
-    1. - [ ] Taxiway Centerline.
+    1. - [x] Taxiway Centerline.
     2. - [ ] Taxiway Holding Position Marking.
     3. - [ ] Taxiway Location and Direction Signs.
     4. - [ ] Undershoot or Overshoot.
