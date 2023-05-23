@@ -1,14 +1,16 @@
 ## Objectives  :notebook_with_decorative_cover:(11 May 2023~)
 
-1. ~~Import the environment, 3D models for the project.~~
-2. ~~Place Cubes to make the track for the plane.~~
-3. ~~Create AircraftController.cs for the Engine component.~~
-4. ~~Assigne one cube at a certain time.~~
-5. ~~Finish the Runway.~~
-6. Create 22 images and Import the images in the environment for the runway.
-7. Finish the Animation Controller for the Introbanner.
-8. Implement the Final Msg after the end of the activity.
-9. Implement Voice Overs and Sound of the airplane.
+1. - [x] Import the environment, 3D models for the project.
+2. - [x] Place Cubes to make the track for the plane.
+3. - [x] Create AircraftController.cs for the Engine component.
+4. - [x] Assign one cube at a time.
+5. - [x] Finish the runway.
+6. - [x] Create 22 images and Import the images in the environment for the runway.
+7. - [x] Implement Final Message when the activity is over.
+8. - [x] Implement Intro Control UI Image before the start of the activity.
+9. - [x] Import the images in the environment for the runway.
+10. - [x] Finish the Animation Controller for the Introbanner.
+11. - [ ] Implement Voice Overs and Sound of the airplane.
 
 ## Work Log
 1. Created Tracking.cs, which takes the cube and indicates the trigger if it hit the track in order to rotate the plane.
@@ -21,3 +23,5 @@
 8. 16 Images done.
 9. Placed 21 images in the game applications for UI.
 10. Created Animation Controller for the IntroBanner.
+11. Debugging the runway model.
+
