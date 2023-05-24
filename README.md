@@ -44,4 +44,4 @@
 9. FinalMsg will be enabled when the activity is over.
 
 ## Work for Tomorrow
-1. - [x] Create one image Taxiway Location sign.
+1. - [ ] Update Intro Scene's Animation, Images and Voice Overs.
