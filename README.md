@@ -61,8 +61,8 @@
     19. - [x] Taxiway Edge line
     20. - [x] Taxiway Holding Position Marking
     21. - [x] Taxiway Location and Direction Signs
-    22. - [ ] Taxiway Location Sign
-    23. - [ ] Touchdown Zone Markings
-    24. - [ ] Undershoot or Overshoot
-    25. - [ ] Unusable area
+    22. - [x] Taxiway Location Sign
+    23. - [x] Touchdown Zone Markings
+    24. - [x] Undershoot or Overshoot
+    25. - [x] Unusable area
 2. - [ ] Create one image Taxiway Location sign.
