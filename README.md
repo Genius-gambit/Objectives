@@ -25,6 +25,8 @@
 9. Placed 21 images in the game applications for UI.
 10. Created Animation Controller for the IntroBanner.
 11. Debugging the runway model.
+12. Trim Voice Overs.
+13. Updated UI images.
 
 ## Summary
 1. Imported Airport Environment and Aircraft asset in the main Scene.
