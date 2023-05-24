@@ -11,7 +11,8 @@
 9. - [x] Import the images in the environment for the runway.
 10. - [x] Finish the Animation Controller for the Introbanner.
 11. - [x] Trim Voice Overs.
-12. - [ ] Implement Voice Overs and Sound of the airplane.
+12. - [x] Implement Voice Overs.
+13. - [ ] Implement Sound of the airplane.
 
 ## Work Log
 1. Created Tracking.cs, which takes the cube and indicates the trigger if it hit the track in order to rotate the plane.
@@ -44,4 +45,4 @@
 9. FinalMsg will be enabled when the activity is over.
 
 ## Work for Tomorrow
-1. - [ ] Update Intro Scene's Animation, Images and Voice Overs.
+1. - [ ] Placement for the images 6 / 22 done.
