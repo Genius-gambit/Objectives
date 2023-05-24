@@ -27,6 +27,8 @@
 11. Debugging the runway model.
 12. Trim Voice Overs.
 13. Updated UI images.
+14. Updated Disclaimer Scene.
+15. Main Scene Activities Finished.
 
 ## Summary
 1. Imported Airport Environment and Aircraft asset in the main Scene.
