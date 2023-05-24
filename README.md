@@ -10,7 +10,8 @@
 8. - [x] Implement Intro Control UI Image before the start of the activity.
 9. - [x] Import the images in the environment for the runway.
 10. - [x] Finish the Animation Controller for the Introbanner.
-11. - [ ] Implement Voice Overs and Sound of the airplane.
+11. - [x] Trim Voice Overs.
+12. - [ ] Implement Voice Overs and Sound of the airplane.
 
 ## Work Log
 1. Created Tracking.cs, which takes the cube and indicates the trigger if it hit the track in order to rotate the plane.
@@ -39,30 +40,4 @@
 9. FinalMsg will be enabled when the activity is over.
 
 ## Work for Tomorrow
-1. Trim Voice Overs below:
-    1. - [x] Disclaimer
-    2. - [x] Displaced Runway Threshold
-    3. - [x] Enhanced Centerline
-    4. - [x] FinalMsg
-    5. - [x] ILS Holding Position Markings
-    6. - [x] IntroControl
-    7. - [x] Non Movement Area Boundary Marking
-    8. - [x] Objective
-    9. - [x] Runway Aiming Point
-    10. - [x] Runway Centerline
-    11. - [x] Runway Designation Marking
-    12. - [x] Runway Holding Position Marking
-    13. - [x] Runway Holding Position Sign
-    14. - [x] Runway Threshold
-    15. - [x] Situation
-    16. - [x] Taxiway Centerline
-    17. - [x] Taxiway Closure Marking
-    18. - [x] Taxiway Direction Sign
-    19. - [x] Taxiway Edge line
-    20. - [x] Taxiway Holding Position Marking
-    21. - [x] Taxiway Location and Direction Signs
-    22. - [x] Taxiway Location Sign
-    23. - [x] Touchdown Zone Markings
-    24. - [x] Undershoot or Overshoot
-    25. - [x] Unusable area
-2. - [ ] Create one image Taxiway Location sign.
+1. - [ ] Create one image Taxiway Location sign.
