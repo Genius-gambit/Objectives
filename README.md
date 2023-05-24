@@ -39,4 +39,29 @@
 9. FinalMsg will be enabled when the activity is over.
 
 ## Work for Tomorrow
-1. Trim Voice Overs.
+1. Trim Voice Overs below:
+    1. - [x] Disclaimer
+    2. - [x] Displaced Runway Threshold
+    3. - [x] Enhanced Centerline
+    4. - [x] FinalMsg
+    5. - [x] ILS Holding Position Markings
+    6. - [x] IntroControl
+    7. - [ ] Non Movement Area Boundary Marking
+    8. - [ ] Objective
+    9. - [ ] Runway Aiming Point
+    10. - [ ] Runway Centerline
+    11. - [ ] Runway Designation Marking
+    12. - [ ] Runway Holding Position Marking
+    13. - [ ] Runway Holding Position Sign
+    14. - [ ] Runway Threshold
+    15. - [ ] Situation
+    16. - [ ] Taxiway Centerline
+    17. - [ ] Taxiway Closure Marking
+    18. - [ ] Taxiway Direction Sign
+    19. - [ ] Taxiway Edge line
+    20. - [ ] Taxiway Holding Position Marking
+    21. - [ ] Taxiway Location and Direction Signs
+    22. - [ ] Taxiway Location Sign
+    23. - [ ] Touchdown Zone Markings
+    24. - [ ] Undershoot or Overshoot
+    25. - [ ] Unusable area
