@@ -46,22 +46,23 @@
     4. - [x] FinalMsg
     5. - [x] ILS Holding Position Markings
     6. - [x] IntroControl
-    7. - [ ] Non Movement Area Boundary Marking
-    8. - [ ] Objective
-    9. - [ ] Runway Aiming Point
-    10. - [ ] Runway Centerline
-    11. - [ ] Runway Designation Marking
-    12. - [ ] Runway Holding Position Marking
-    13. - [ ] Runway Holding Position Sign
-    14. - [ ] Runway Threshold
-    15. - [ ] Situation
-    16. - [ ] Taxiway Centerline
-    17. - [ ] Taxiway Closure Marking
-    18. - [ ] Taxiway Direction Sign
-    19. - [ ] Taxiway Edge line
-    20. - [ ] Taxiway Holding Position Marking
-    21. - [ ] Taxiway Location and Direction Signs
+    7. - [x] Non Movement Area Boundary Marking
+    8. - [x] Objective
+    9. - [x] Runway Aiming Point
+    10. - [x] Runway Centerline
+    11. - [x] Runway Designation Marking
+    12. - [x] Runway Holding Position Marking
+    13. - [x] Runway Holding Position Sign
+    14. - [x] Runway Threshold
+    15. - [x] Situation
+    16. - [x] Taxiway Centerline
+    17. - [x] Taxiway Closure Marking
+    18. - [x] Taxiway Direction Sign
+    19. - [x] Taxiway Edge line
+    20. - [x] Taxiway Holding Position Marking
+    21. - [x] Taxiway Location and Direction Signs
     22. - [ ] Taxiway Location Sign
     23. - [ ] Touchdown Zone Markings
     24. - [ ] Undershoot or Overshoot
     25. - [ ] Unusable area
+2. - [ ] Create one image Taxiway Location sign.
