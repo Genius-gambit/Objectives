@@ -42,4 +42,4 @@
 9. FinalMsg will be enabled when the activity is over.
 
 ## Work for Tomorrow
-1. - [ ] Create one image Taxiway Location sign.
+1. - [x] Create one image Taxiway Location sign.
