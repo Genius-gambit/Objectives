@@ -44,10 +44,10 @@
 8. Created UI Image of Intro to Control which will be enabled when scene starts.
 9. FinalMsg will be enabled when the activity is over.
 
-## Edit Images:
-
-1. - [ ] Taxiway Location and Direction Signs.
-2. - [ ] Runway Holding Position Marking.
-
-## Edit VO
-1. - [x] Runway Holding Position Marking.
+## Targets
+1.	- [ ] Remove intro banner
+2.	- [x] Objective – follow standard
+3.	- [x] Situation- follow standard
+4.	- [x] Information popup no need
+5.	- [x] Remove space between "Non” and ”movement"
+6.	- [x] Popup standard - follow "Taxi way closure marking" also fix one position (Left or Right)
