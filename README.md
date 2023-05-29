@@ -12,7 +12,7 @@
 10. - [x] Finish the Animation Controller for the Introbanner.
 11. - [x] Trim Voice Overs.
 12. - [x] Implement Voice Overs.
-13. - [ ] Implement Sound of the airplane.
+13. - [x] Implement Sound of the airplane.
 
 ## Work Log
 1. Created Tracking.cs, which takes the cube and indicates the trigger if it hit the track in order to rotate the plane.
@@ -43,11 +43,3 @@
     2. If collides with the gameobject which has the tag "Track", then it rotates the aircraft towards the pathway.
 8. Created UI Image of Intro to Control which will be enabled when scene starts.
 9. FinalMsg will be enabled when the activity is over.
-
-## Targets
-1.	- [ ] Remove intro banner
-2.	- [x] Objective – follow standard
-3.	- [x] Situation- follow standard
-4.	- [x] Information popup no need
-5.	- [x] Remove space between "Non” and ”movement"
-6.	- [x] Popup standard - follow "Taxi way closure marking" also fix one position (Left or Right)
