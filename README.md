@@ -10,7 +10,7 @@
     3. Objective
     4. Situation
     5. Ground UI images.
-2. Replaced Rapton Flight with F-15 Eagle.
+2. Replaced Raptor Flight with F-15 Eagle.
 3. 
 
 ## Summary
