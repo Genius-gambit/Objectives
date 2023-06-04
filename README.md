@@ -10,7 +10,8 @@
     3. Objective
     4. Situation
     5. Ground UI images.
-2. 
+2. Replaced Rapton Flight with F-15 Eagle.
+3. 
 
 ## Summary
 1. Walk Around with Airborne Flight model and on Land.
