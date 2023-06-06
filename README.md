@@ -4,7 +4,7 @@
 2. - [ ] Menu Select
 3. - [ ] Image Distortion.
 4. - [ ] Layer color.
-5. - [ ] Lesson Name.
+5. - [x] Lesson Name.
 6. - [ ] Situation Scenario in descend.
 
 ## Work Log
