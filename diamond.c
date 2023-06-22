@@ -2,6 +2,10 @@
 #include <unistd.h>
 #include <stdio.h>
 
+/*
+	** Give me a Diamond
+*/
+
 char *diamond (int n)
 {
   char  *str
