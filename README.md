@@ -5,3 +5,6 @@
 Jira resolve procedure:
 1. Go to child -> Select for Dev/Fixing -> In Progress -> Workflow -> Resolved.
 2. Go to parent -> In Progress -> Resolve.
+
+Creative README.MD:
+https://github.com/coderjojo/creative-profile-readme
