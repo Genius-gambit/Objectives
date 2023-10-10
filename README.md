@@ -18,20 +18,16 @@ sudo docker pull nvcr.io/nvidia/l4t-pytorch:r35.2.1-pth2.0-py3
 
 sudo docker run -it --rm --runtime nvidia --network host nvcr.io/nvidia/l4t-pytorch:r35.2.1-pth2.0-py3
 
-git clone https://github.com/ultralytics/ultralytics.git
+Steps:
 
-pip install ultralytics
+cd ~/ultralytics
 
-pip install protobuf
+git clone https://github.com/ultralytics/ultralytics.git && pip install ultralytics && pip install protobuf
 
 cd ultralytics/
 
-pip install -r requirements.txt
-
-pip install "opencv-python-headless<4.3"
-
-yolo predict model=yolov8n.pt source='https://ultralytics.com/images/bus.jpg'
-
-sudo apt upgrade -y
+sudo apt upgrade -y && pip install -r requirements.txt && pip install "opencv-python-headless<4.3" && yolo predict model=yolov8n.pt source='rtsp://10.10.10.7:554/media/video1' show=True && sudo apt upgrade -y
 
 sudo apt-get install ubuntu-restricted-extras
+
+https://github.com/SkalskiP/yolov8-live/blob/master/
