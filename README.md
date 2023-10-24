@@ -31,3 +31,5 @@ sudo apt upgrade -y && pip install -r requirements.txt && pip install "opencv-py
 sudo apt-get install ubuntu-restricted-extras
 
 https://github.com/SkalskiP/yolov8-live/blob/master/
+
+gst-launch-1.0 rtspsrc location=rtsp://10.10.30.99:554/media/video1 latency=10 ! rtph264depay ! h264parse ! omxh264dec ! nvoverlaysink overlay-x=400 overlay-y=0 overlay-w=1280 overlay-h=720 overlay=2
